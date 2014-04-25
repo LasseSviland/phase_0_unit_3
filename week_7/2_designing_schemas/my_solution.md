@@ -5,25 +5,24 @@
 
 
 ## Release 0: Student Roster Schema
-<!-- display your image inline here -->
+!(https://github.com/LasseSviland/phase_0_unit_3/imgs/student.jpg "student")
 
 
 ## Release 1: One to Many Schema
-<!-- display your image inline here -->
+!(https://github.com/LasseSviland/phase_0_unit_3/imgs/one_to_many.jpg "one to many")
 
 
 ## Release 2: One to One Schema
-<!-- display your image inline here -->
+!(https://github.com/LasseSviland/phase_0_unit_3/imgs/one_to_one.jpg "SQL quiz")
 
 
 ## Release 3: Many to Many Schema
-<!-- display your image inline here -->
+!(https://github.com/LasseSviland/phase_0_unit_3/imgs/many_to_many.jpg "SQL quiz")
 
 
 ## Release 4: Design your own Schema
 Description of what you're modeling: 
+!(https://github.com/LasseSviland/phase_0_unit_3/imgs/my_one_to_many_and_one_to_one.jpg "SQL quiz")
 
-<!-- display your one-to-one image inline here -->
-<!-- display your many-to-many image inline here -->
 
 ## Release 5: Reflection
