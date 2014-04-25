@@ -5,7 +5,7 @@
 
 
 ## Release 0: Student Roster Schema
-!(https://github.com/LasseSviland/phase_0_unit_3/imgs/student.jpg "student")
+![test](https://github.com/LasseSviland/phase_0_unit_3/imgs/student.jpg "student")
 
 
 ## Release 1: One to Many Schema
