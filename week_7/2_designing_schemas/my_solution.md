@@ -5,11 +5,11 @@
 
 
 ## Release 0: Student Roster Schema
-![..](https://raw.githubusercontent.com/LasseSviland/phase_0_unit_3/master/week_7/imgs/student.jpg "student")
+![..](../imgs/students.jpg?raw=true)
 
 
 ## Release 1: One to Many Schema
-![..](https://raw.githubusercontent.com/LasseSviland/phase_0_unit_3/master/week_7/imgs/one_to_many.jpg "one to many")
+![..](../imgs/one_to_many.jpg?raw=true)
 
 
 ## Release 2: One to One Schema
