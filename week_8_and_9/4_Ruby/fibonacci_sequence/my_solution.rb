@@ -9,7 +9,7 @@
 
 # 3. Initial Solution
 
-def is_fibonacci?(num)
+def is_fibonacci?(n)
 
 end
 
@@ -24,7 +24,7 @@ end
 
 # 1. DRIVER TESTS GO BELOW THIS LINE
 
-
+p is_fibonacci?(3)
 
 
 
